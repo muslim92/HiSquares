@@ -1,0 +1,6 @@
+@HiSquares_HostAddress = http://localhost:5298
+
+GET {{HiSquares_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
